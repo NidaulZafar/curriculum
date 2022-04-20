@@ -40,7 +40,7 @@ The HackYourFuture team
 
 HackYourFuture was founded in 2016. We saw many talented people coming to the Netherlands as a refugee, but many had difficulty finding a job. At the same time the tech/IT sector is looking for talent to fill their open vacancies. That does not make any sense :) You can read more about the story of HYF on [our website](https://www.hackyourfuture.net/about/).
 
-HYF is a foundation, which means we do not make profits. However, we do make costs of course. Our program costs around EUR10000 per graduate that finds a job, yet the education is free. How do we do this? Currently, we receive most of our revenues from donations (60%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former students). The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
+HYF is a foundation, which means we do not make profits. However, we do make costs of course. Our program costs around €10000 per graduate that finds a job, yet the education is free. How do we do this? Currently, we receive most of our revenues from donations (60%) from large foundations like the ING Netherlands Fund, Stichting Doen and the Oranje Fonds. We also receive donations from companies and individuals (mostly former students). The rest of our revenues we receive through an education fee we ask to companies that hire our graduates.
 
 One of the main strengths of our organisation is that we rely heavily on the contribution of our teachers, all professional software developers and testers, that help to correct homework, teach classes and guide you through the program. Some of our graduates are now teaching at HackYourFuture! Currently, we have 4 paid employees on the payroll and together they form the 'core-team' of HYF. They keep the program running, update the curriculum, promote the organisation to find jobs and funding and are there to support you at every step of the way.
 
@@ -100,7 +100,7 @@ Currently, due to Corona all of our education is online. In the near future we h
 As mentioned before, our complete curriculum can be found on Github. Each modules is ordered sequentially and the homework can be found in the module repository. For example, if you click on [HTML-CSS](https://github.com/HackYourFuture/HTML-CSS) you’ll be taken to the document that has all the information about that particular module. If you scroll down you’ll see a table with a column Homework.
 ![alt text](https://github.com/HackYourFuture/curriculum/blob/master/assets/html:css-table.png)
 
-After the first couple of weeks, Github will also be where you will publish your homework. GitHub can be challengin to use at first, but there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works and become a master at it. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github will become automatic. 
+After the first couple of weeks, Github will also be where you will publish your homework. GitHub can be challenging to use at first, but there is a reason we use it: It is the number 1 platform for programmers! In order to become a good programmer, you will have to understand how Github works and become a master at it. You will notice that after a few weeks, finding the right homework assignments and reading, as well as publishing your homework on Github will become automatic. 
 
 Homework assignments will be part of the curriculum practically every week and it is expected that you finish it (and hand it in) on time. As you might have read in our culture page, you should think about HackYourFuture as a job and not a hobby. Not handing in your assignents on time without proper reason and communication will not be accepted (see also our values and our 3 strike policy). During HYF we not only look at your technical skills, but we also want to see that you are a reliable person that works hard, delivers on time and communicates accordingly. While you might find a job without these skills, it will be hard to keep that job and that is why we are strict with the way we work. Not less important, the homeworks and assignments are specifically designed to be sure you have the required skills at the end of each module!
 
@@ -140,27 +140,27 @@ Here is an example of this in action.
 ![labels](https://github.com/HackYourFuture/mentors/blob/main/assets/labels.png)
 
 ##### Responsibility
-It is your responsibility to make sure the pull request gets to the `Approved` state so make fixing the feedback given by the teacher your top priority when you get it! Submitting your homework, getting feedback and implementing that feedback in a timely manner is a similar process to the on you will encounter when working. It is important that you answer to your teacher messages on your homework just like if you would with an actual colleague. Keep in mind that the teacher puts a ton of effort to help you out, so be sure to thank them and react on time! Small things like that go a long way!
+It is your responsibility to make sure the pull request gets to the `Approved` state so make fixing the feedback given by the teacher your top priority when you get it! Submitting your homework, getting feedback and implementing that feedback in a timely manner is a similar process to the one you will encounter when working. It is important that you answer to your teacher's messages on your homework just like you would with an actual colleague. Keep in mind that the teacher puts a ton of effort to help you out, so be sure to thank them and react on time! Small things like that go a long way!
 
 It could happen  at times that it takes a little longer than ideal for our teachers to pick up the homework and give you feedback (they do have full time jobs after all), but if there is no review yet on the Q&A day then please contact your class mentor so they can see if someone else is available to review it. Again, feedback is crucial for you to learn the right way.
 
 
-**INTERESTING FACT:** When you apply to internships/jobs further down the line companies expect to see a link to your GitHub there to see your projects, your code, etc. Keeping an organised GitHub (and collaborating with other well in the platform by answering to feedback, thanking for contributions, etc) will always create a good impression about the way you work.
+**INTERESTING FACT:** When you apply to internships/jobs further down the line companies expect to see a link to your GitHub there to see your projects, your code, etc. Keeping an organised GitHub (and collaborating with others well in the platform by answering to feedback, thanking for contributions, etc.) will always create a good impression about the way you work.
 
 ### 1.3.2 A note on copying code
-You will probably hear at some point at HYF that programmers copy and paste code into their applications all the time. While this is true, during your studies we want you to really think about how to solve something before aking google to help out. The exercises are made to be doable, but solutions to them are probably easy to find online as we want to teach you practical things which you may need in the future. If you just copy code from google you will not learn whats needed and that will become visible in your tests, interviews or, even worse, during your internship.
+You will probably hear at some point at HYF that programmers copy and paste code into their applications all the time. While this is true, during your studies we want you to really think about how to solve something before aking Google to help out. The exercises are made to be doable, but solutions to them are probably easy to find online as we want to teach you practical things which you may need in the future. If you just copy code from Google you will not learn what's needed and that will become visible in your tests, interviews or even worse, during your internship.
 
 There are occasions where you will copy code from the internet. In such a case, the following criteria applies:
-1. A reference should be given of were the code is coming from (in a comment)
+1. A reference should be given of where the code is coming from (in a comment).
 2. Don't copy code from fellow students!
-3. It must be clear which part of the code you copied
+3. It must be clear which part of the code you copied.
 4. The functionality of the code should be explained in the comment. This should ensure you fully understand what the code that you copied does.
 
 The last one is most important there, do *not* ever put anything into your codebase that you do not understand!
 
-If we (or your teacher) notices that you copied code without applying the rules above, we will see that as plagiarism. In any case of fraud or plagiarism, you will be taken out of the program.
+If we (or your teacher) notice that you copied code without applying the rules above, we will see that as plagiarism. In any case of fraud or plagiarism, you will be taken out of the program.
 
-Last but not least, when you copy code you dont understand, you might feel things are going great when in fact they are not. Is a lot better to accept you are struggling or having a hard time with the task at hand and ask for help. A great programmer is not that one that knows every solution. Sometimes the best programmer is that one that knows how to look for solutions by himself and if after some time he doesnt find the solution, he asks for support. Your mentor, teachers, colleagues and the core-team is here to help you. Use that to your advantage.
+Last but not least, when you copy code you dont understand, you might feel things are going great when in fact they are not. It is a lot better to accept you are struggling or having a hard time with the task at hand and ask for help. A great programmer is not the one that knows every solution. Sometimes the best programmer is the one that knows how to look for solutions by himself and if after some time he doesn't find the solution, he asks for support. Your mentor, teachers, colleagues and the core-team is here to help you. Use that to your advantage.
 
 ## 1.4 Tests <a name="tests"></a>
 At HackYourFuture the material is mostly self-study and our lectures are taught by many different teachers. This means that we can’t follow the progress of every student during class. But, we're interested in your progress and your level of understanding.
@@ -174,7 +174,7 @@ If we see one of the students does not do well in one of the modules we can pair
 
 **General rules for the tests:**
 - You can only enter the project once you pass the React test.
-- Don’t share the questions and/or answers of your tests with students from your same or other classes. We also see this as fraud.
+- Don’t share the questions and/or answers of your tests with students from the same or other classes. We also see this as fraud.
 - You are not allowed to have contact with other people during tests unless indicated otherwise. 
 
 **Grading system:** 
@@ -210,10 +210,10 @@ Good:		_"Do callbacks have to do with asynchronicity in our applications?"_
 
 Bad:		_"Can you explain again what a callback is?"_
 
-Before submitting your question, try to answer it yourself by researching online for the answer using google, [MDN](https://developer.mozilla.org/en-US/), [StackOverflow](https://stackoverflow.com/), etc. If youve spent a good half hour - 1 hours researching and looking for the answer and still cannot find the result yourself...you've found yourself a great question to ask for the Q&A session. Again, if you can’t think of a question search online for a small exercise. And if you cant find an exercise, try to come up with one yourself. If you can't fix it (or simply find it very challenging), that's a good exercise to submit to your class.
+Before submitting your question, try to answer it yourself by researching online for the answer using google, [MDN](https://developer.mozilla.org/en-US/), [StackOverflow](https://stackoverflow.com/), etc. If you've spent a good half hour - 1 hour researching and looking for the answer and still cannot find the result yourself...you've found yourself a great question to ask for the Q&A session. Again, if you can’t think of a question search online for a small exercise. And if you cant find an exercise, try to come up with one yourself. If you can't fix it (or simply find it very challenging), that's a good exercise to submit to your class.
 
 * Be on time, turn your camera on, and your microphone off. If you have a poor internet connection let Tjebbe know so we can find a solution together.
-* Participate actively: Answer if a teacher has a yes/no question. These sessions are a dialoge so it's a shared task to make it interactive, educational and fun.
+* Participate actively: Answer if a teacher has a yes/no question. These sessions are a dialogue so it's a shared task to make it interactive, educational and fun.
 * Ask additional questions and speak up when something is not clear. IMPORTANT: Do not to wait with questions and hope things will get better with time. The speed of our program is very fast, so you have to take initiative and reach out to us for HELP. Again, good programmers ask for help. Those that do not ask for help, will hardly ever become good programmers.
 * Be ready to answer questions yourself. The teacher will be active in asking YOU to explain concepts. This is not to embarrass you but to help you practice the skills you will need when applying and/or working at a real company.
 
@@ -221,11 +221,11 @@ Before submitting your question, try to answer it yourself by researching online
 ## 1.7 Three Strike Policy <a name="strike"></a>
 At HackYourFuture we have a 3-strike policy. This means that you get 1 strike in the following situations:
 
-- You are not present in the lecture without proper communication and valid reason 
-- You do not hand in the homework in time without proper communication and valid reason
-- You do not implement feedback on your homework without proper communication and valid reason
-- You do not submit a question in time for the Q&A session on Sunday
-- You do not take part on additional activities which were planned and communicated in advance without proper communication and valid reason
+- You are not present in the lecture without proper communication and valid reason. 
+- You do not hand in the homework in time without proper communication and valid reason.
+- You do not implement feedback on your homework without proper communication and valid reason.
+- You do not submit a question in time for the Q&A session on Sunday.
+- You do not take part on additional activities which were planned and communicated in advance without proper communication and valid reason.
 
 This automated 3-strike policy helps us keep track of what's happening with the 40-60 students we have in the program at all times. They have proven to be a good indication of students commitment, communication style and overall approach to the program. They represent an indication of when we need to have a conversation to make clear that changes in the way we work together need to happen. Once you have 3 strikes, we will re-evaluate your participation in HYF.
 
@@ -244,15 +244,15 @@ After graduation, it is time to find an internship. This internship almost alway
 Is your CV, GitHub and LinkedIn profiles up to date and following the given guidelines? Have you asked for feedback from the Partnership Manager? Do you continue to update your CV with new projects and experiences? For more information on this, visit ['Your Personal Brand Repo'](https://github.com/HackYourFuture/yourpersonalbrand)
 
 2. Are you ready for job interviews? 
-During the course you will have career training sessions where we will discuss the basics of finding an internship, how to prepare for interviews, what companies expect from HackYourFuture graduates, etc. Additionaly, you will have many mockup interviews (aka practice interviews), both technical and social. These interviews will be conducted by the HYF core-team and by recruiters from our partner company Adyen. After each interview, you will receive feedback about your performance and things you can improve upon. This will make you less nervous and prepare you for real interviews with companies! To learn more about this, please visit the ['Interview Preparation' Repo](https://github.com/HackYourFuture/interviewpreparation).
+During the course you will have career training sessions where we will discuss the basics of finding an internship, how to prepare for interviews, what companies expect from HackYourFuture graduates, etc. Additionally, you will have many mockup interviews (aka practice interviews), both technical and social. These interviews will be conducted by the HYF core-team and by recruiters from our partner company Adyen. After each interview, you will receive feedback about your performance and things you can improve upon. This will make you less nervous and prepare you for real interviews with companies! To learn more about this, please visit the ['Interview Preparation' Repo](https://github.com/HackYourFuture/interviewpreparation).
 
 3. Revise what you've learned and never stop learning new things!
 One of the biggest risks to starting your career is to stop coding after graduation. This will significantly decrease your chances of finding an internship. We highly recommend you continue to work on projects even right after graduation. These projects will help you learn even further and you can also add them to your CV to show companies you never stop learning! A good way to go about this is by working on the [Post Graduation Package](https://github.com/HackYourFuture/post-grad-ed). Also, be sure to revise all concepts studied throughout the course as this might come in handy when doing technical or social interviews. 
 
 4. Remember the Education Fee!
-When a company hires one of our gradyates, we ask for an education fee. This fee, helps us fund the next class of students. Once a company hires you, we ask them for 350 euros per month during the internship time, and 3000 euros minus the fees paid for the internship once thy hire you for a full-time job. This fee is never more than 3000 total and it does not come out of your pay. Think of this as a recruiting fee paid by the company + a way for having those companies supporting our mission of helping people like you start a career in tech. It might happen that you find a job by yourself at a company that is not partnering yet with HackYourFuture. If that is the case, we still ask you to Remember about the Education Fee and to connect with HYF's partnership manager as early as possible in the hiring process to best inform the company about that.
+When a company hires one of our graduates, we ask for an education fee. This fee, helps us fund the next class of students. Once a company hires you, we ask them for 350 euros per month during the internship time, and 3000 euros minus the fees paid for the internship once they hire you for a full-time job. This fee is never more than 3000 total and it does not come out of your pay. Think of this as a recruiting fee paid by the company + a way for having those companies supporting our mission of helping people like you start a career in tech. It might happen that you find a job by yourself at a company that is not partnering yet with HackYourFuture. If that is the case, we still ask you to Remember about the Education Fee and to connect with HYF's partnership manager as early as possible in the hiring process to best inform the company about that.
 
-IMPORTANT: HackYourFuture's partnership manager will make a personalised plan to help you find an internship as soon as possible! If you are close to graduation and havent heard from him/her yet, reach out to them on slack!
+IMPORTANT: HackYourFuture's partnership manager will make a personalised plan to help you find an internship as soon as possible! If you are close to graduation and haven't heard from him/her yet, reach out to them on slack!
 
 ## 1.9 Paying it forward <a name="donations"></a>
 
@@ -265,7 +265,7 @@ In the coming years we have to find a business model in which we are less relian
 Through our years of experience guiding non-programmers into the world of coding we have gathered some common roadblocks/issues/misconceptions that we would like to inform you about so you don't run into the same thing:
 
 ## 2.1. Reading error messages <a name="error"></a>
-When programming you will deal with a lot of errors and being able to find how to solve them is the core of what a programmer do. As a beginner these error messages can seem daunting and we often see our students ignoring the information that would help them solve the problem. However, have a lot of information in them that can help you solve the actual error. Let's look at the following error message from some JavaScript code:
+When programming you will deal with a lot of errors and being able to find how to solve them is the core of what programmers do. As a beginner these error messages can seem daunting and we often see our students ignoring the information that would help them solve the problem. However, they have a lot of information in them that can help you solve the actual error. Let's look at the following error message from some JavaScript code:
 
 ```
 TypeError: res.status is not a function
@@ -275,7 +275,7 @@ TypeError: res.status is not a function
     at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
 ```
 
-There is a lot of information in there to try to help you identify what is going on, but much of it is probably not needed to solve this issue. Let's disect this information:
+There is a lot of information in there to try to help you identify what is going on, but much of it is probably not needed to solve this issue. Let's dissect this information:
 
 ```
 TypeError: res.status is not a function
@@ -292,7 +292,7 @@ The rest of the error message is what we call the call stack:
   at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
 ```
 
-This should tell you where in the code it broke. We will go into more detail about this in the curriculum, but the rule here is to look for a filename / directory that you recognise. In this case the first line `at Server.<anonymous> (C:\Users\Rob\hyf\Node.js\week1\homework\exercises\3-web-server\server.js:26:9)` is a file on my computer that I recognize. The numbers at the end `26:9` tells you at what line (26) and character in that line (9) your code broke. So now you know where to start looking for a problem!
+This should tell you where in the code it broke. We will go into more detail about this in the curriculum, but the rule here is to look for a filename / directory that you recognise. In this case the first line `at Server.<anonymous> (C:\Users\Rob\hyf\Node.js\week1\homework\exercises\3-web-server\server.js:26:9)` is a file on my computer that I recognize. The numbers at the end `26:9` tell you at what line (26) and character in that line (9) your code broke. So now you know where to start looking for a problem!
 
 ## 2.2 Finding solutions online <a name="solution"></a>
 If you can't figure out the error yourself then it is time to search online. When it comes to programming, the internet is filled with solutions that may or may not work. Some information will be out of date as well. This means that it may take multiple attempts to find the solution you need. When looking for a problem we have a couple of tips:
@@ -352,7 +352,7 @@ Another app that can help you out: [Selfcontrol.](https://selfcontrolapp.com/) A
 **Challenge number 2: Family, friends, kids, adults, etc**  
 Many of us are not living by ourselves. You might have children, or family members asking for attention. The challenge here is to try and create a quiet space, where you will not be interrupted. Of course, this is not always possible if you are a parent. But perhaps you can ask your partner or a friend to keep an eye on your children at least for a few hours a day, while you go to a local library, or study in a quiet room at a friend’s house. Finding time to concentrate and to reach a study flow is crucial to your development as a professional. Same happens with being a good friend, a good husband/wife or father/mother. The best way to reach a balance there is to plan your time properly.
 
-If you're struggling to find that 'flow', please contact your classmentor for some extra help! You can also look for resources online or ask colleagues how they do it. Having a well structured week is a challenge to most, but it really helps!
+If you're struggling to find that 'flow', please contact your class mentor for some extra help! You can also look for resources online or ask colleagues how they do it. Having a well structured week is a challenge to most, but it really helps!
 
 ## 2.6 Life happens <a name="life"></a>
 HackYourFuture is VERY demanding. You will be learning years of content in just a fraction of that time. You will need to devote a huge part of your year to the curriculum in a (usually) less than ideal learning environment. Sometimes life will 'get in the way' of this and when that happens remember: There is no shame in admitting that you need help!
